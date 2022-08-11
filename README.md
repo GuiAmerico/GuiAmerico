@@ -3,6 +3,7 @@
 - 🌱 Estudando atualmente Java
 - 🧠 Desenvolvedor FullStack
 - 👨🏿 Aluno Recode Pro 2022
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
 
 ### CONHECIMENTOS ATUAIS:
 
