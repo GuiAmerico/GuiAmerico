@@ -9,7 +9,7 @@ Dentre meus estudos e interesses estão:
 - **Back-end:** Spring Framework (Spring Boot, Spring Security, Spring Data JPA, Spring Data MongoDB, Spring Web, Spring Cloud)
 - **Front-end:** React
 
-### Infra:
+### Infra/Cloud:
 - **CI/CD:** Azure Devops, Github Actions, Jenkins
 - **Cloud:** AWS (EC2, SES, SNS, ECS, S3, RDS, DocumentDB, VPC, IAM), Azure
 - **Docker**
