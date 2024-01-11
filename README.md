@@ -15,6 +15,14 @@ Dentre meus estudos e interesses estão:
 - **Docker**
 - **Kubernetes**
 
+### Testes:
+- JUnit/AssertJ
+- Mockito
+- MockMvc
+- RestAssured
+- Selenium
+- JMeter
+
 ### Desenvolvimento:
   - SOLID
   - Clean Code
