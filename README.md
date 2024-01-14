@@ -11,7 +11,7 @@ Dentre meus estudos e interesses estão:
 
 ### Infra/Cloud:
 - **CI/CD:** Azure Devops, Github Actions, Jenkins
-- **Cloud:** AWS (EC2, SES, SNS, ECS, S3, RDS, DocumentDB, VPC, IAM), Azure
+- **Cloud:** AWS (EC2, SES, SNS, ECS, S3, RDS, DynamoDB, VPC, IAM), Azure
 - **Docker**
 - **Kubernetes**
 
