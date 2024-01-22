@@ -1,5 +1,5 @@
-## Desenvolvedor Back-end
-Me chamo Guilherme Américo. Atualmente trabalho como desenvolvedor back-end.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=24&duration=2500&pause=300&color=F7F7F7&multiline=true&random=false&width=435&height=100&lines=Ol%C3%A1%2C+me+chamo+Guilherme;Sou+Desenvolvedor+Back-end)](https://git.io/typing-svg)
+<br>
 Dentre meus estudos e interesses estão:
 ### Linguagens:
 - **Back-end:** Java 8+
